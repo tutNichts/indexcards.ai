@@ -1,0 +1,4 @@
+# indexcards.ai
+
+## Project Structure
+
