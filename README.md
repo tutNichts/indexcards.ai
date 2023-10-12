@@ -12,4 +12,4 @@ Standalone frontend, using the backend Rest API.
 
 ### /pdf-service
 
-...
+GPT-3 powered PDF question & answer generator service.
